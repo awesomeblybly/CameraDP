@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.awesomebly.cameradp'
+    namespace 'com.awesomebly.cameradp.app'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.awesomebly.cameradp"
+        applicationId "com.awesomebly.cameradp.app"
         minSdk 29
         targetSdk 33
         versionCode 1
