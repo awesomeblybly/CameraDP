@@ -93,9 +93,6 @@ dependencies {
     //Glide
     implementation 'com.github.bumptech.glide:glide:4.13.2'
 
-    //SwitchButton
-    implementation 'lib.kingja.switchbutton:switchbutton:1.1.8'
-
     //ExoPlayer
     def exo_version = "2.18.2"
     implementation "com.google.android.exoplayer:exoplayer-core:$exo_version"
